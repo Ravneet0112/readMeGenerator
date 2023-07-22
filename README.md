@@ -1,7 +1,7 @@
 
-# Work Day Scheduler
+# ReadMe file generator
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Content
 - [Project Description](#Description)
@@ -13,26 +13,21 @@
 - [License](#License)
 
 ## Description
-This app will help users to organize there daily work, so that can manage time and more productive by adding task for the hour of day.
+Generates the readme file for the projects
 
 ## Installation
-Users can clone repository and open index.html in a web browser.
+We have to go to Bash and run node index.js command
     
 ## Usage
-To manage daily task and time.
-    
-## Contribution
- 
-
-## Instructions
-
+Helpful in creating Readme file, so that user can concentrate on coding
     
 
 ## Questions
 
-GitHub: Ravneet0112
+GitHub: Ravneet0112@github.com
+
 Email: ravneet.sammewali01@gmail.com
 
 ## License
-Licensed under the [ISC](https://choosealicense.com/licenses/isc/) license
+Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license
     
